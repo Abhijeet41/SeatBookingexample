@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeatBookExample</string>
+    <string name="selected_seat">Selected Seat</string>
+</resources>
